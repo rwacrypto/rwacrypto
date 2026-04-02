@@ -1,4 +1,4 @@
-I first discovered Bitcoin in 2016 at a restaurant with a friend to find a new industry, deal flow project that is upcoming which was cryptocurrency.
+I first discovered Bitcoin back in 2016 at a restaurant with a friend to find a new industry, deal flow project that is upcoming which was cryptocurrency.
 In 2017 I ventured first into building one of the very first ethereum mining rig and then became a bitcoin mining company in 2018.
 up till 2021 I became a known GPU and ASIC reseller and supplier in North America.
 I remembered the original white paper of Bitcoin and decided to follow on the rule of commerce, a peer to peer transaction - protecting sellers and buyers, by developing a decentralize platform with manufacturers.
